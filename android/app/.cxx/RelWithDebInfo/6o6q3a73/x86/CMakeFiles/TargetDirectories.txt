@@ -1,0 +1,2 @@
+C:/Users/nithe/Documents/MyCodes/BlinkItCloneFirebase/Ecom-Admin-Firestore-v1/android/app/.cxx/RelWithDebInfo/6o6q3a73/x86/CMakeFiles/edit_cache.dir
+C:/Users/nithe/Documents/MyCodes/BlinkItCloneFirebase/Ecom-Admin-Firestore-v1/android/app/.cxx/RelWithDebInfo/6o6q3a73/x86/CMakeFiles/rebuild_cache.dir

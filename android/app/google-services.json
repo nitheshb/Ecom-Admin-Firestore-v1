@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "987157819436",
-    "project_id": "cwt-ecom-admin-panel",
-    "storage_bucket": "cwt-ecom-admin-panel.firebasestorage.app"
+    "project_number": "388723960966",
+    "project_id": "webstrauntstore",
+    "storage_bucket": "webstrauntstore.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:987157819436:android:3ab3fd3f6ef3f744496189",
+        "mobilesdk_app_id": "1:388723960966:android:1777ba2fb3bf1765efb507",
         "android_client_info": {
           "package_name": "com.example.cwt_ecommerce_admin_panel"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpAr70JzmmqKlIdo6GniLNktclIF3tJRM"
+          "current_key": "AIzaSyBS8ZAlvC2Kde0d1I7sgA9xA-cf6jtR8j0"
         }
       ],
       "services": {
