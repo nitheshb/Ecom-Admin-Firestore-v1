@@ -3,8 +3,8 @@
 class TTexts {
 
   // -- Admin Default Credentials
-  static const String adminEmail = "aryanshirke3365@gmail.com";
-  static const String adminPassword = "Admin@123";
+  static const String adminEmail = "neerajsgawane@gmail.com";
+  static const String adminPassword = "Admin@001";
 
   // -- Storage Paths
   static const String bannersStoragePath = "/Banners";
