@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987157819436",
+    "project_id": "cwt-ecom-admin-panel",
+    "storage_bucket": "cwt-ecom-admin-panel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987157819436:android:3ab3fd3f6ef3f744496189",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpAr70JzmmqKlIdo6GniLNktclIF3tJRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
